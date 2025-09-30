@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\cloud\\dio\\APITempoDIO\\APITempoDIO.csproj": {}
+    "C:\\Dev\\cloud\\dio\\APITempoDIO\\APITempoDIO\\APITempoDIO.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\cloud\\dio\\APITempoDIO\\APITempoDIO.csproj": {
+    "C:\\Dev\\cloud\\dio\\APITempoDIO\\APITempoDIO\\APITempoDIO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\cloud\\dio\\APITempoDIO\\APITempoDIO.csproj",
+        "projectUniqueName": "C:\\Dev\\cloud\\dio\\APITempoDIO\\APITempoDIO\\APITempoDIO.csproj",
         "projectName": "APITempoDIO",
-        "projectPath": "C:\\Dev\\cloud\\dio\\APITempoDIO\\APITempoDIO.csproj",
+        "projectPath": "C:\\Dev\\cloud\\dio\\APITempoDIO\\APITempoDIO\\APITempoDIO.csproj",
         "packagesPath": "C:\\Users\\iury\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\cloud\\dio\\APITempoDIO\\obj\\",
+        "outputPath": "C:\\Dev\\cloud\\dio\\APITempoDIO\\APITempoDIO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\iury\\AppData\\Roaming\\NuGet\\NuGet.Config"
