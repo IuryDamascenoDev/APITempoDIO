@@ -1,7 +1,6 @@
 FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS base
-WORKDIR /app
-RUN adduser --disabled-password --home /app app
 USER app
+WORKDIR /app
 EXPOSE 8080
 EXPOSE 8081
 
