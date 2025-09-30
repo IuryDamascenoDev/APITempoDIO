@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QQuXhN/lulc=",
+  "dgSpecHash": "vANmaF0pC54=",
   "success": true,
-  "projectFilePath": "C:\\Dev\\cloud\\dio\\APITempoDIO\\APITempoDIO\\APITempoDIO.csproj",
+  "projectFilePath": "C:\\Dev\\cloud\\dio\\APITempoDIO\\APITempoDIO.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iury\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.20\\microsoft.aspnetcore.openapi.8.0.20.nupkg.sha512",
     "C:\\Users\\iury\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
