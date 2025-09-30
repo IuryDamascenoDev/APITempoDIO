@@ -1,4 +1,4 @@
-@APITempoDIO_HostAddress = http://localhost:8080
+@APITempoDIO_HostAddress = http://localhost:5068
 
 GET {{APITempoDIO_HostAddress}}/weatherforecast/
 Accept: application/json
