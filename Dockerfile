@@ -11,7 +11,6 @@ WORKDIR /src
 COPY ["APITempoDIO.csproj", "./"]
 RUN dotnet restore "APITempoDIO.csproj"
 COPY . .
-WORKDIR "/src"
 RUN dotnet build "APITempoDIO.csproj" -c ${BUILD_CONFIGURATION} -o /app/build
 
 FROM build AS publish
